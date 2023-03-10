@@ -1,0 +1,39 @@
+/*#box{
+    width: 100%;
+    height: 20%;
+    background-color: rgb(204, 159, 159);
+}*/
+.one, .two, .three, .four{
+    display: inline;
+   
+    width: 100%;
+    height: 5px;
+    padding: 10px;
+    margin-top: 10px; background-color: rgb(245, 236, 236);
+    border: 5px;
+    border-color: blue
+}
+/*.one{
+ 10px; color: black;
+}
+.two{
+    color: brown;
+    text-align: center;
+}
+.three{
+     color: rgb(36, 150, 106);
+    text-align: right;
+    }
+    .four{
+        color: rgb(241, 6, 6); text-align: end;
+    }
+    .five{
+        border-width: 5px;
+        border-color: black;
+    }*/
+    p.one {
+        border-width: 2px;}
+        p.two {
+        border-width: thick;}
+        p.three {
+        border-width: 1px 4px 12px 4px;}
